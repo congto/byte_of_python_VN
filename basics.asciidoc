@@ -7,10 +7,8 @@ constants and variables, and we'll learn some other concepts as well in this cha
 
 === Comments
 
-_Comments_ are any text to the right of the `#` symbol and is mainly useful as notes for the reader
-of the program.
-
-For example:
+_Comments_  là đoạn text bắt đầu bởi dấu`#` nó giúp ích cho mọi người khi đọc chương trình.
+Ví dụ:
 
 [source,python]
 --------------------------------------------------
