@@ -127,6 +127,20 @@ I love your book! It is the greatest Python tutorial ever, and a very useful ref
 a true masterpiece! Keep up the good work!
 __________________________________________________
 
+[quote,'https://github.com/swaroopch/byte_of_python/pull/13[myd7349]']
+__________________________________________________
+First of all, I want to say thanks to you for this greate book. I think it is a good book for those
+who are looking for a beginner's tutorial for Python.
+
+It is about two or there years ago, I think, when I first heard of this book. At that time, I am
+not able to read some book in English yet, so I got a chinese translation, which took me into the
+gate of Python programming.
+
+Recently, I reread this book. This time, of course, the english version. I couldn't believe that I
+can read the whole book without my dictionary at hand. Of course, it all dues to your effort to
+make this book an easy-to-understand one.
+__________________________________________________
+
 [quote,'mailto:m_gallivan12@hotmail.com[Matt Gallivan]']
 __________________________________________________
 I'm just e-mailing you to thank you for writing Byte of Python online.  I had been attempting
@@ -196,6 +210,14 @@ __________________________________________________
 __________________________________________________
 I started learning python few days ago from your book..thanks for such a nice book. it is so well
 written, you made my life easy..so you found a new fan of yours..thats me :) tons of thanks.
+__________________________________________________
+
+[quote,'mailto:fangbiyi@gmail.com[Fang Biyi (PhD Candidate ECE, Michigan State University)]']
+__________________________________________________
+Before I started to learn Python, I've acquired basic programming skills in Assembly, C, C++, C#
+and Java. The very reason I wanted to learn Python is it's popular (people are talking about it)
+and powerful (reality). This book written by Mr. Swaroop is a very good guide for both brand-new
+programmers and new python programmers. Took 10 half days to go through it. Great Help!
 __________________________________________________
 
 [quote,Bob]
@@ -305,6 +327,33 @@ boring. I want to understand the Orca screen reader code. Your book has hopefull
 for it.
 __________________________________________________
 
+
+[quote,'mailto:lisen2010@gmail.com[LEE]']
+__________________________________________________
+Hi, 'A byte of python' is really a good reading for python beginners. So, again, NICE WORK!
+
+i'm a 4 years experienced Java&C developer from China. Recently, i want to do some work on zim-wiki
+note project which uses pygtk to implement.
+
+i read your book in 6 days, and i can read and write python code examples now.
+thx for your contribution.
+plz keep your enthusiasm to make this world better, this is just a little encourage from China.
+Your reader
+Lee
+__________________________________________________
+
+[quote,'mailto:chao926@gmail.com[Isen I-Chun Chao]']
+__________________________________________________
+I am Isen from Taiwan, who is a graduating PhD student in Electrical Engineering Department of
+National Taiwan University. I would like to thank you for your great book. I think it is not only
+just easy to read but also comprehensive and complete for a new comer of Python. The reason I read
+your book is that I am starting to work on the GNU Radio framework. Your book let me catch most of
+important core ideas and skill of Python with a minimum time.
+
+I also saw that you do not mind that readers send you a thank note in your book. So I really like
+your book and appreciate it. Thanks.
+__________________________________________________
+
 The book is even used by NASA! It is being used in their
 http://dsnra.jpl.nasa.gov/software/Python/byte-of-python/output/byteofpython_html/[Jet Propulsion
 Laboratory] with their Deep Space Network project.
@@ -332,6 +381,9 @@ This book is/was being used as instructional material in various educational ins
 - 'Introduction to Computer Science and Programming' at
   http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/['MIT
   OpenCourseWare']
+- 'Basic programming at the Faculty of Social Sciences, University of Ljubljana, Slovenia' -
+  mailto:ales.ziberna@fdv.uni-lj.si[Aleš Žiberna] says _"I (and my predecessor) have been using
+  your book as the main literature for this course"_
 
 === License
 
